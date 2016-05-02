@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[SophiaPandeya]]></title>
         <description><![CDATA[SophiaPandeya]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sophiapandeya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 20:05:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 20:12:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sophiapandeya/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86009018-81b0-4515-b7a1-f72b1da3a9ac.jpg">]]></description>
-            <link>undefinedghazal-roses/index.html</link>
+            <link>https://thegrid.ai/sophiapandeya/ghazal-roses/index.html</link>
             <guid isPermaLink="false">0c6344b7-efb0-4732-8cbf-d1efa64926c9</guid>
             <pubDate>Mon, 02 May 2016 20:05:22 GMT</pubDate>
         </item>
