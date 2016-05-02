@@ -1,0 +1,28 @@
+name: SophiaPandeya
+favicon: null
+layout_spectrum: 0.8577920109964907
+typography_spectrum: 0.14950253441929817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5471335623878986
+  lightness: 0.5992355786729604
+  saturation: 0.229654670227319
+  rhythmicContrast: 0.6601638460997492
+purpose: []
